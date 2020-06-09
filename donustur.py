@@ -89,6 +89,3 @@ def main():
             print("Hatalı giriş yaptınız! Lütfen yeniden deneyin.")
 main()
 
-"""
-by Quality38
-"""
